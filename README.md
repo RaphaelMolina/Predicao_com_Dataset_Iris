@@ -5,4 +5,4 @@ Predição utilizando o Dataset Iris no Google Colab.
 
 Vídeo de apresentação:
 
-[![Vídeo de apresentação](https://img.youtube.com/vi/???/maxresdefault.jpg)](https://youtu.be/??? "Apresentação")
+[![Vídeo de apresentação](https://img.youtube.com/vi/OApDyhjtH0c/maxresdefault.jpg)](https://youtu.be/OApDyhjtH0c "Apresentação")
